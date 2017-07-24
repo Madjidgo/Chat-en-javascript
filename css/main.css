@@ -95,7 +95,16 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+.c1{
+  border: 1px solid black;
+  height: 500px;
+  width: 400px;
+}
 
+span {
+  color: red;
+
+}
 
 
 
